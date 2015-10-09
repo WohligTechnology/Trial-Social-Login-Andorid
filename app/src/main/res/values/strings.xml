@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Social Login</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="fb">Facebook</string>
+
+    <!-- Social Keys -->
+    <string name="fb_app_id">312054032307399</string>
+    <string name="twitter_consumer_key">IXJatdtzC4fdYGyAdtCiG2y6g</string>
+    <string name="twitter_consumer_secret">350C1gs7fztdZRZvAL6MI7cLYwX6PFHVlvvqqE4qXamjIukxt8</string>
+
+</resources>
